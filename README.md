@@ -1,1 +1,1 @@
-# customer_exit_prediction
+The analysis was made for a competition on kaggle: https://www.kaggle.com/competitions/playground-series-s4e1/overview. The goal was to predict whether a customer continues with their account or closes it. Random forests and several gradient boosting methods were used. CatBoost led to the highest AUC Score: 0.88861 (top45% on the leaderboard), however the differences in AUC Scores in comparison to other methods were marginal. 
